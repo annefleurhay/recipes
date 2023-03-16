@@ -1,1 +1,4 @@
-  Dit is een oefening voor Winc Academy. Mijn favoriete eten is noedels.
+  Dit is een oefening voor Winc. Mijn favoriete eten is noedels.
+
+
+Hier maak ik mijn eerste commit mee, joepieee.
