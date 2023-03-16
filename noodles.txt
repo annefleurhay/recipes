@@ -1,4 +1,6 @@
-  Dit is een oefening voor Winc. Mijn favoriete eten is noedels.
-
+  Dit is een oefening voor Winc.
+Commits die visueel zichtbaar zijn maken het een stuk makkelijker om alles te onthouden. Git via de commandline is pittig maar uiteindelijk te begrijpen. 
 
 Hier maak ik mijn eerste commit mee, joepieee.
+
+Nog meer toevoegen, i love dit. Woop woop.
